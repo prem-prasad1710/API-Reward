@@ -774,15 +774,5 @@ For support and questions:
 - Create an issue in the repository
 - Check the Swagger documentation at `/api`
 - Review the test files for usage examples
-
-## 🎯 Roadmap
-
-- [ ] Add authentication and authorization
-- [ ] Implement user roles and permissions
-- [ ] Add email notifications
-- [ ] Create admin dashboard
-- [ ] Add more reward types
-- [ ] Implement reward expiration
-- [ ] Add transaction categories management
-- [ ] Create mobile app API optimizations
 #
+Develop by Prem with ❤️
