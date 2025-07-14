@@ -5,126 +5,13 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Tests](https://img.shields.io/badge/Tests-15%2F15_Passing-brightgreen?style=for-the-badge&logo=jest)
 
-**A comprehensive enterprise-grade rewards management system built with NestJS and MongoDB**
+**Enterprise-grade rewards management system with real-time updates**
 
-*Supporting user rewards, transactions, and redemption func## 🤝 Contributing
-
-<div align="center">
-
-**We welcome contributions!** 🎉
+[🚀 Quick Start](#-quick-start) • [📚 API Documentation](#-api-documentation) • [🧪 Demo](#-demo)
 
 </div>
-
-### 🔄 Development Workflow
-
-```bash
-# 1️⃣ Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/API-Reward.git
-cd API-Reward
-
-# 2️⃣ Create a feature branch
-git checkout -b feature/amazing-feature
-
-# 3️⃣ Make your changes and add tests
-npm run test
-
-# 4️⃣ Commit your changes
-git commit -m '✨ Add amazing feature'
-
-# 5️⃣ Push to your branch
-git push origin feature/amazing-feature
-
-# 6️⃣ Open a Pull Request
-```
-
-### 📋 Contribution Guidelines
-
-- ✅ **Tests Required** - All new features must include tests
-- ✅ **Documentation** - Update README and inline comments
-- ✅ **Code Style** - Follow existing TypeScript/NestJS patterns
-- ✅ **Performance** - Consider caching and optimization
-- ✅ **Security** - Validate all inputs and sanitize outputs
-
-## 📞 Support & Contact
-
-<div align="center">
-
-| Need Help? | Platform | Link |
-|------------|----------|------|
-| 🐛 **Bug Reports** | GitHub Issues | [Create Issue](https://github.com/prem-prasad1710/API-Reward/issues) |
-| 💡 **Feature Requests** | GitHub Discussions | [Start Discussion](https://github.com/prem-prasad1710/API-Reward/discussions) |
-| 📖 **Documentation** | Swagger UI | `http://localhost:3001/api` |
-| 🧪 **API Testing** | Interactive Tester | Open `api-tester.html` |
-
-</div>
-
-## 🎯 Roadmap
-
-<table>
-<tr>
-<td>
-
-### 🚀 Phase 1 (Current)
-- [x] Core rewards API
-- [x] Real-time WebSocket updates  
-- [x] Comprehensive testing
-- [x] Docker containerization
-- [x] Analytics dashboard
-
-</td>
-<td>
-
-### 🔜 Phase 2 (Upcoming)
-- [ ] Authentication & authorization
-- [ ] User roles and permissions
-- [ ] Email notifications
-- [ ] Admin dashboard UI
-- [ ] Advanced analytics
-
-</td>
-<td>
-
-### 🌟 Phase 3 (Future)
-- [ ] Mobile app optimization
-- [ ] Reward expiration system
-- [ ] Multi-tenant support
-- [ ] Advanced fraud detection
-- [ ] Machine learning insights
-
-</td>
-</tr>
-</table>
-
-## 📄 License
-
-<div align="center">
-
-This project is licensed under the **MIT License** 📄
-
-See [LICENSE](LICENSE) for more information.
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you found it helpful! ⭐**
-
-Made with ❤️ using NestJS, MongoDB, and TypeScript
-
-[🔝 Back to Top](#-rewards-management-api)
-
-</div>
-
-</div>eal-time updates and analytics*
-
-[🚀 Quick Start](#-quick-start) • [📚 API Docs](#-api-documentation) • [🧪 Testing](#-testing) • [🔄 WebSocket](#-websocket-events)
-
-</div>
-
----
 
 ## ✨ Features
 
@@ -898,6 +785,4 @@ For support and questions:
 - [ ] Implement reward expiration
 - [ ] Add transaction categories management
 - [ ] Create mobile app API optimizations
-#   A P I - R e w a r d 
- 
- 
+#
